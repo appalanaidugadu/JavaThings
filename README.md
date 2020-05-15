@@ -1,2 +1,2 @@
 # JavaThings
-This repository contains the problems that I written when I learn Java.laskdjfkla
+This repository contains the problems that I written when I learn Java.laskdjfk
